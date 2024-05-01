@@ -1,5 +1,10 @@
 ##  Financial tracker App
 
+[site](https://financial-tracker-sxidsvit.vercel.app)
+
+### How does this work
+
+![](demo.gif)
 
 #### 🛠️ Stack 
 - Nextjs 14: API routes and ServerActions
